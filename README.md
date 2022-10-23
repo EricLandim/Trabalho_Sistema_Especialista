@@ -8,3 +8,9 @@ O mosquito Aedes Aegypti é transmissor do vírus Zika, Dengue e chikungunya. O 
 # Solução
 
 O trabalho foi desenvolvido com o sistema especialista desenvolvido na UFC, Expert Sinta, onde por meio de códigos de decisão de multipla escolha o usuário irá identificar um possível vírus Dengue em seu corpo.
+
+# Execução do Programa
+
+* Após o download do Expert Sinta, carregue o arquivo Dengue.BCM clicando no menu > arquivo > abrir base > selecione o arquivo
+* Clique no menu > iniciar
+* Responda o questionário.
